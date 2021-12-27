@@ -10,7 +10,7 @@ A quick description about me :)
     - Watch Netflix!<br>
     - Code awesome things!<br>
 
-Some Programming Languages that i know:<br>
+####Some Programming Languages that i know:
 <div style="display: inline_block"><br>
   <img align="center" alt="carlos-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="carlos-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
