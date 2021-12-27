@@ -3,12 +3,12 @@
 Uma descrição básica sobre quem sou eu na fila do pão :)
 A quick description about me :)
 
-🔭 Today i'm studiyng to be a FullStack Developer
-🎓 I'm lerning now: React.JS
-🎮 I like to:
-    - Play Video Games! (Oh my god i really love them🤣)
-    - Watch Netflix!
-    - Code awesome things!
+🔭 Today i'm studiyng to be a FullStack Developer<br>
+🎓 I'm lerning now: React.JS<br>
+🎮 I like to:<br>
+    - Play Video Games! (Oh my god i really love them🤣)<br>
+    - Watch Netflix!<br>
+    - Code awesome things!<br>
 
 
 <div style="display: inline_block"><br>
