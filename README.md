@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 Uma descrição básica sobre quem sou eu na fila do pão :)
+A quick description about me :)
 
 🔭 Today i'm studiyng to be a FullStack Developer
 🎓 I'm lerning now: React.JS
