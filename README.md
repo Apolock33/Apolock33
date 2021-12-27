@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**Apolock33/Apolock33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Uma descrição básica sobre quem sou eu na fila do pão :)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 Today i'm studiyng to be a FullStack Developer
+🎓 I'm lerning now: React.JS
+🎮 I like to:
+    - Play Video Games! (Oh my god i really love them🤣)
+    - Watch Netflix!
+    - Code awesome things!
+    
+👩‍👧‍👦 You can find me HERE:
+      E-mail: carlosammgomes@gmail.com
+      LinkedIn: https://www.linkedin.com/in/carlos-alberto-m-m-gomes-868204124/
+      Instagram: https://www.instagram.com/carlosamg_75/
+      Facebook: https://www.facebook.com/carlosammgomes/
