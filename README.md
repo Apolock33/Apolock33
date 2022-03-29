@@ -1,3 +1,4 @@
+<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/Apolock33/68a9ac7a00a24356bd237d5e61a6984a/raw/94cc521b71fb26512a11f6bd307835afe9339b99/githubcard.svg"/>
 # Olá 👋
 
 Uma descrição básica sobre quem sou eu na fila do pão :)
@@ -22,3 +23,12 @@ Uma descrição básica sobre quem sou eu na fila do pão :)
   <img align="center" alt="carlos-spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
   <img align="center" alt="carlos-spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 </div>
+
+## ⚙️ &nbsp;GitHub Analytics
+
+<p align="left">
+<img width="430em" src="https://github-readme-stats.vercel.app/api?username=Apolock33&show_icons=true&theme=vision-friendly-dark" alt="maykbrito's stats"/>
+<img width="430em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Apolock33&layout=compact&theme=vision-friendly-dark" alt="maykbrito's most languages"/>
+</p>
+
+<br><br>
