@@ -1,7 +1,6 @@
 ### Olá 👋
 
 Uma descrição básica sobre quem sou eu na fila do pão :)
-A quick description about me :)
 
 🔭 Hoje Estou Estudando Desenvolvimento Ful-Stack<br>
 🎓 Agora Estou Aprendendo: Node.js<br>
