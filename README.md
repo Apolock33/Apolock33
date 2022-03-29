@@ -3,14 +3,14 @@
 Uma descrição básica sobre quem sou eu na fila do pão :)
 A quick description about me :)
 
-🔭 Today i'm studiyng to be a FullStack Developer<br>
-🎓 I'm lerning now: React.JS<br>
-🎮 I like to:<br>
-    - Play Video Games! (Oh my god i really love them🤣)<br>
-    - Watch Netflix!<br>
-    - Code awesome things!<br>
+🔭 Hoje Estou Estudando Desenvolvimento Ful-Stack<br>
+🎓 Agora Estou Aprendendo: Node.js<br>
+🎮 Eu Gosto de:<br>
+    - Jogar Video Games! (Meu deus, eu realmente Amo Video games🤣)<br>
+    - Assistir Netflix!<br>
+    - Criar coisas Incríveis através de Código!<br>
 
-<h4>Some Programming Languages that i know:<h4>
+<h4>Algumas Tecnologias Que Conheço:<h4>
 <div style="display: inline_block"><br>
   <img align="center" alt="carlos-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="carlos-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
