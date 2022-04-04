@@ -34,6 +34,6 @@ Uma descrição básica sobre quem sou eu na fila do pão :)
 
 <br><br>
 <div style="inline-block">
-    <a href="https://www.linkedin.com/in/carlos-alberto-m-m-gomes-868204124/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/carlos-alberto-martins-868204124" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     <a href="https://instagram.com/ocarlosmartins_75" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
