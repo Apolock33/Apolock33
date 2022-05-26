@@ -4,8 +4,8 @@
 
 Uma descrição básica sobre quem sou eu na fila do pão :)
 
-🔭 Hoje Estou Estudando Desenvolvimento Ful-Stack<br>
-🎓 Agora Estou Aprendendo: Node.js<br>
+🔭 Hoje Estou Estagiando Na Empresa Telecall como Analista de Sistemas<br/>
+🎓 Agora Estou Aprendendo: C#/.NET Framework<br>
 🎮 Eu Gosto de:<br>
     - Jogar Video Games! (Meu deus, eu realmente Amo Video games🤣)<br>
     - Assistir Netflix!<br>
