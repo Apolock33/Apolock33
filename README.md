@@ -27,10 +27,10 @@ Uma descrição básica sobre quem sou eu na fila do pão :)
 
 ## ⚙️ &nbsp;GitHub Analytics
 
-<p align="left">
+<div align="left">
 <img width="430em" src="https://github-readme-stats.vercel.app/api?username=Apolock33&show_icons=true&theme=vision-friendly-dark" alt="maykbrito's stats"/>
-<img width="330em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Apolock33&layout=compact&theme=vision-friendly-dark" alt="maykbrito's most languages"/>
-</p>
+<img width="430em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Apolock33&layout=compact&theme=vision-friendly-dark" alt="maykbrito's most languages"/>
+</div>
 
 <br><br>
 <div style="inline-block">
