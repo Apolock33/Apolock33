@@ -25,13 +25,6 @@ Uma descrição básica sobre quem sou eu na fila do pão :)
   <img align="center" alt="carlos-spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 </div>
 
-## ⚙️ &nbsp;GitHub Analytics
-
-<div align="left">
-<img width="430em" src="https://github-readme-stats.vercel.app/api?username=Apolock33&show_icons=true&theme=vision-friendly-dark" alt="maykbrito's stats"/>
-<img width="430em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Apolock33&layout=compact&theme=vision-friendly-dark" alt="maykbrito's most languages"/>
-</div>
-
 <br><br>
 <div style="inline-block">
     <a href="https://www.linkedin.com/in/carlos-alberto-martins-868204124" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
