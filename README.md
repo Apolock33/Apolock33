@@ -8,6 +8,7 @@ Uma descrição básica sobre quem sou eu na fila do pão :)
 🎓 Agora Estou Aprendendo: RestAPI, Typescript, Node.JS, MongoDB<br>
 🎮 Eu Gosto de:<br>
     - Jogar Video Games!<br>
+    - Viajar!<br>
     - Assistir Netflix!<br>
     - Criar coisas Incríveis através de Código!<br>
 
